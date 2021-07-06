@@ -37,6 +37,7 @@ https://github.com/sachinchillal/Pirple.com/tree/main/Pirple%20VIII/Screenshot
 This is my web resume project, I didn't spend much time on designing even I'm good at CSS, because I just want to add more features and functionalities
 ```
 7.  https://github.com/sachinchillal/GRIP/tree/main/iBank
+
     https://youtu.be/gNXcNBviIss **[Demo]**
 ```
 GRIP @ The Sparks Foundation: Internship
@@ -66,6 +67,7 @@ Color notepad, which is used to store color name or hex code of color, able to s
 This is a simple Stopwatch, which has separate buttons to START, PAUSE, RESTART and RESET. Published to Google Play Store on May 2020.
 ```
 2.   https://play.google.com/store/apps/details?id=com.div.shortstories&hl=en_IN&gl=US *[currently inactive due to privacy & policy missing on host]*
+
      https://github.com/sachinchillal/Android/tree/main/Screenshots/ShortStories **[Screenshorts]**
 ```
 This has some volumes which contain a set story which are similar to one another. There will be a separate volume list and that contains a sub-list of stories. Users can choose any story and use to read. The next important feature is users can adjust the text size to read with limited text size. Users can make use of a floating action button to increase and decrease the text size. These buttons are automatically hidden after five seconds of inactivity of the screen. The best practice is to set text size at the startup of Story Page. Users can see the text size just above the floating action button in pixels. Published to Google Play Store on July 2020.
